@@ -1,2 +1,2 @@
 # piscine-go
-echo "Hello Enu13!"
+echo "Hello enu13!"
